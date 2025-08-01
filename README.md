@@ -75,6 +75,7 @@ We extracted and engineered multiple types of features to help the model capture
   ![Feature-Target Correlation](assets/feature_target_correlation.png)
 
 - **Mutual Information**:
+
   ![Mutual Information Features](assets/mi_features.png)
 
 
@@ -183,3 +184,4 @@ nyc-taxi-trip-prediction/
 عوامل کلیدی در پیش‌بینی شامل مسافت سفر، ساعت حرکت، تعطیلات، و تعداد سفرها در زون-ساعت می‌باشد.
 
 ---
+
