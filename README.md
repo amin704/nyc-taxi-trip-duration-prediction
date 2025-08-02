@@ -44,7 +44,7 @@ This project builds a regression model to predict taxi trip time using real NYC 
 
 ## 🛠️ Feature Engineering
 
-We extracted and engineered multiple types of features to help the model capture trip patterns:
+extracted and engineered multiple types of features to help the model capture trip patterns:
 
 ### 🔸 Temporal Features
 - `pickup_hour`, `day_of_week`, `month`, `is_weekend`
@@ -154,8 +154,7 @@ jupyter notebook trip_duration_prediction.ipynb
 > Before running the notebooks:
 > * Download `nyc_taxi_data_2014.csv` from [Kaggle](https://www.kaggle.com/datasets/kentonnlp/2014-new-york-city-taxi-trips)
 > * Run `fetch_weather_data.ipynb` once to generate `weather_nyc_2014.csv`
->
-> Place both files inside the `data/` folder.
+
 
 ---
 
@@ -184,4 +183,5 @@ nyc-taxi-trip-prediction/
 عوامل کلیدی در پیش‌بینی شامل مسافت سفر، ساعت حرکت، تعطیلات، و تعداد سفرها در زون-ساعت می‌باشد.
 
 ---
+
 
